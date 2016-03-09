@@ -1,0 +1,10 @@
+.front{
+	background: #FF9696;
+	border: 1px solid black;
+	height: 250px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	padding: 20px;
+	font-family: 'Raleway', sans-serif;
+}
